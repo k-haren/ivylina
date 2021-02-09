@@ -1,0 +1,22 @@
+{
+  "name": "ivylina",
+  "version": "1.0.0",
+  "description": "numcamp school portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-haren/ivylina.git"
+  },
+  "author": "k-haren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-haren/ivylina/issues"
+  },
+  "homepage": "https://github.com/k-haren/ivylina#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
