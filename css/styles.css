@@ -1,0 +1,44 @@
+img {
+    width: 100%;
+  }
+
+  .navbar {
+      background-color: rgb(179, 150, 226);
+  }
+
+  .carousel {
+      border: solid;
+      color: rgb(163, 117, 216)
+
+  }
+
+  .carousel-caption {
+      border: solid rgb(189, 171, 212);
+     padding-bottom: 20px;
+     background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .jumbotron {
+      background-color: rgb(148, 168, 223);
+      margin-bottom: 0;
+  }
+
+  #production {
+      background-color: rgb(241, 238, 238);
+  }
+
+  #urbanNutcracker {
+      background-color:  rgb(148, 168, 223);
+
+  }
+
+  #niorBallet {
+    background-color: rgb(148, 168, 223) ;
+  }
+
+  #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
