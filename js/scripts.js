@@ -11,4 +11,15 @@ $(function () {
             $("#carouselButton").children("i").addClass("fa-pause");
         }
     });
+
+    
+    // Enable Carousel Controls
+    $(".carousel-control-prev").click(function(){
+        $("#slides").carousel("prev");
+    });
+    $(".carousel-control-next").click(function(){
+        $("#slides").carousel("next");
+    });
+
+
 });

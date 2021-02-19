@@ -12,6 +12,7 @@ img {
 
   }
 
+ 
   .carousel-caption {
       border: solid rgb(189, 171, 212);
      padding-bottom: 20px;
@@ -50,4 +51,14 @@ img {
 
 .bg-blk {
     background-color: black;
+}
+
+
+
+#footer {
+    bottom: -50px;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    right: 0;
 }
